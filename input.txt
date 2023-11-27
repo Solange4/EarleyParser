@@ -1,0 +1,6 @@
+S -> NP[NUM=?n] VP[NUM=?n] N[123]
+NP[NUM=?n] -> Det[NUM=?n]
+VP[NUM=?n] -> V[NUM=?n]
+N[123] -> 1
+N[123] -> 2
+N[123] -> 3
